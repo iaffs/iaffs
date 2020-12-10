@@ -1,7 +1,7 @@
 ### Hi, I am Ingrid-Alice 👋
 
 
-I study fron-end and mobile development in Oslo🇳🇴
+I study fron-end and mobile development in Oslo 🇳🇴
 
 
 <p align="right">
