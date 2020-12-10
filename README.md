@@ -12,12 +12,13 @@
 
 I am not married to any technology, framework or language, but I enjoy cross-platform and app development :computer:
 
-I strive for becoming a kickass app or fullstack developer, and for some time that has been my main goal.
+I strive for becoming a kickass developer, and for some time that has been my main goal.
 
 
 
 Besides that I absolutely love to cook food, not to mention eating food. I love all kinds of food:stew::ramen::pizza:
 I also enjoy a glass of wine or beer from time to time.
+I love to build or make things, whether it be with my hands or my brain.
 
 ## Where you can find me:
 :bird: [Twitter](https://twitter.com/byiaffs)
