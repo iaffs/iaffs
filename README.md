@@ -4,11 +4,6 @@
 
 
 
-![githubprofile](https://user-images.githubusercontent.com/42621710/101795809-8dd11880-3b08-11eb-8646-5b13f8b6e7f3.png)
-
-
-
-
 
 <!--
 **iaffs/iaffs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
