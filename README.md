@@ -5,10 +5,20 @@
 
 #### I'm 26 years young, and I study front-end and mobile development in Oslo:woman:
 
+
+
 I am not married to any technology, framework or language, but I enjoy cross-platform and app development :computer:
+
+
+
+Besides that I absolutely love to cook food, not to mention eating food. I love all kinds of food:stew::ramen::pizza:
+I also enjoy a glass of wine or beer from time to time.
 
 ## Where you can find me:
 :bird: [Twitter](https://twitter.com/byiaffs)
+
+
+
 :link: [LinkedIn](https://www.linkedin.com/in/iaffs/)
 
 
