@@ -8,6 +8,7 @@
 
 
 I am not married to any technology, framework or language, but I enjoy cross-platform and app development :computer:
+I strive for becoming a kickass app or fullstack developer, and for some time that has been my main goal.
 
 
 
@@ -20,9 +21,6 @@ I also enjoy a glass of wine or beer from time to time.
 
 
 :link: [LinkedIn](https://www.linkedin.com/in/iaffs/)
-
-
-
 
 <p align="right">
 <img src="https://user-images.githubusercontent.com/42621710/101796122-e86a7480-3b08-11eb-98ab-42e4eb8d696d.png" width="200" title="hover text">
