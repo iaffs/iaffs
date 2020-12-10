@@ -3,7 +3,7 @@
 
 
 
-#### I'm 26 and I study front-end and mobile development in Oslo:woman:
+#### I'm 26 years young, and I study front-end and mobile development in Oslo:woman:
 
 I am not married to any technology, framework or language, but I enjoy cross-platform and app development :computer:
 
