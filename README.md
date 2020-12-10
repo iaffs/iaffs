@@ -1,7 +1,7 @@
 ### Hi, I am Ingrid-Alice 👋
 
 
-I'm 26 and I study fron-end and mobile development in Oslo:woman:
+I'm 26 and I study front-end and mobile development in Oslo:woman:
 
 
 
