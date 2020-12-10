@@ -3,7 +3,7 @@
 
 
 
-###### I'm 26 and I study front-end and mobile development in Oslo:woman:
+#### I'm 26 and I study front-end and mobile development in Oslo:woman:
 
 I enjoy cross-platform and app development, preferably in Kotlin or TypeScript:computer:
 
