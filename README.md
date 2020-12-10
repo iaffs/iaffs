@@ -1,4 +1,4 @@
-# Hei, my name is Ingrid-Alice:wave::no:
+# Hei, my name is Ingrid-Alice:wave:
 
 
 
@@ -7,7 +7,9 @@
 
 I am not married to any technology, framework or language, but I enjoy cross-platform and app development :computer:
 
-
+## Where you can find me:
+:bird: [Twitter](https://twitter.com/byiaffs)
+:link: [LinkedIn](https://www.linkedin.com/in/iaffs/)
 
 
 
