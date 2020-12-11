@@ -12,7 +12,7 @@
 
 I am not married to any technology, framework or language, but I enjoy cross-platform and app development :computer:
 
-I strive for becoming a kickass developer, and for some time that has been my main goal.
+I strive to become a kickass developer, and for some time that has been my main goal.
 
 
 
