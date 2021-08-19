@@ -3,7 +3,7 @@
 
 
 
-#### I'm 27 years young, and as a mobile developer in Oslo:woman:
+#### I'm 27 years young, and work as a mobile developer in Oslo:woman:
 
 ---
 
