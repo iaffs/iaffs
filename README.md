@@ -3,31 +3,31 @@
 
 
 
-#### I'm 30 years young, and work as a mobile developer in Oslo:woman:
+#### I'm 30 years young, and work as a mobile developer in Oslo 👩🏽
 
 ---
 
 
 
 
-I am not married to any technology, framework or language, but I enjoy cross-platform and app development :computer:
+I am not married to any technology, framework or language, but I enjoy cross-platform and app development 💻
 
 I strive to become a kickass developer, and for some time that has been my main goal.
 
 
 
-Besides that I absolutely love to cook food, not to mention eating food. I love all kinds of food:stew::ramen::pizza:
+Besides that I absolutely love to cook food, not to mention eating food. I love all kinds of food 🍲🍕🥗
 I also enjoy a glass of wine or beer from time to time.
 
 
 I love to build or make things, whether it be with my hands or my brain.
 
 ## Where you can find me:
-:bird: [Twitter](https://twitter.com/byiaffs)
+🐦 [Twitter](https://twitter.com/byiaffs)
 
 
 
-:link: [LinkedIn](https://www.linkedin.com/in/iaffs/)
+🔗 [LinkedIn](https://www.linkedin.com/in/iaffs/)
 <!--
 <p align="right">
 <img src="https://user-images.githubusercontent.com/42621710/101796122-e86a7480-3b08-11eb-98ab-42e4eb8d696d.png" width="200" title="hover text">
