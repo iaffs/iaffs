@@ -17,6 +17,7 @@ I strive to become a kickass developer, and for some time that has been my main 
 
 
 Besides that I absolutely love to cook food, not to mention eating food. I love all kinds of food 🍲🍕🥗 
+
 I also enjoy a glass of wine or beer from time to time.
 
 
