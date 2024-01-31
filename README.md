@@ -1,30 +1,28 @@
-# Hei, my name is Ingrid-Alice:wave:
+# Hei, my name is Ingrid-Alice👋🏻
 
 
 
 
-#### I'm 30 years young, and work as a mobile developer in Oslo 👩🏽
+#### I'm 30 years young, and work as a mobile developer & system engineer in Oslo 👩🏽
 
 ---
 
 
 
 
-I am not married to any technology, framework or language, but I enjoy cross-platform and app development 💻
+I am not married to any technology, framework or language, but I enjoy cross-platform and app development 💻\
+That mainly involves React/Typescript or Android development with Kotlin📱
 
 I strive to become a kickass developer, and for some time that has been my main goal.
 
 
-
-Besides that I absolutely love to cook food, not to mention eating food. I love all kinds of food 🍲🍕🥗 
-
+Besides that I absolutely love to cook food, not to mention eating food. I love all kinds of food 🍲🍕🥗\
 I also enjoy a glass of wine or beer from time to time.
 
 
 I love to build or make things, whether it be with my hands or my brain.
 
 ## Where you can find me:
-🐦 [Twitter](https://twitter.com/byiaffs)
 
 
 
